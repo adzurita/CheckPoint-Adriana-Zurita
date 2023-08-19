@@ -1,0 +1,284 @@
+    1  git clone https://github.com/ktbyers/netmiko
+    2  cd netmiko
+    3  python setup.py install
+    4  python -3 -V
+    5  python -V
+    6  python -i
+    7  git --version
+    8   git clone https://github.com/CiscoDevNet/hello_network
+    9  cd hello_network/
+   10  ll
+   11  ./hello_network.sh
+   12  py -3 -v
+   13  python -V
+   14  py -m venv
+   15  py -m venv py3-venv
+   16   source py3-venv/Scripts/activate
+   17  python -V
+   18  deactivate
+   19  node -v
+   20  docker run busybox
+   21  docker ps -a
+   22  docker ps -a
+   23  git clone https://github.com/CiscoDevNet/dne-dna-code
+   24  cd dne-dna-code/
+   25  git status
+   26  git checkout -b mycodeaz
+   27  ll
+   28  ll
+   29  git fetch
+   30  git status
+   31  vim intro-python/git-basics/change_me.txt 
+   32  git status
+   33  git diff
+   34  pwd
+   35  ll
+   36  cd intro-python/
+   37  ll
+   38  cd ..
+   39  ll
+   40  cd intro-python/git-basics/
+   41  git checkout change_me.txt
+   42  ll
+   43  git diff
+   44  git status
+   45  cd ..
+   46  cd ..
+   47  ll
+   48  git diff
+   49  vim intro-python/git-basics/change_me.txt 
+   50  py -m venv venv
+   51  python
+   52  py -3 -m venv venv
+   53  source venv/Scripts/activate
+   54  python -V
+   55  ls
+   56  tree
+   57  ls -al
+   58  cd venv
+   59  ll
+   60  python -i
+   61  a = 'hoy no se come'
+   62  a="hoy no se come"
+   63  a.upper() a
+   64  'hoy no se come'.upper() exit
+   65  "QUIEN ESCRIBIO ESTO?".lower() quit
+   66  python -i
+   67  git--version
+   68  git --version
+   69  git init
+   70  git remote add origin https://github.com/adzurita/hellow.git
+   71  git remote -v
+   72  git config -l
+   73  git config --global user.name "Domenica"
+   74  git config --global user.email "adzurita96@gmail.com"
+   75  git config -l
+   76  git status
+   77  git status
+   78  git add .
+   79  git status
+   80  git commit -m "Primer Commit"
+   81  git status
+   82  git push origin master
+   83  git status
+   84  git config --gloal credential.helper wincred
+   85  git config --global credential.helper wincred
+   86  git clone https://github.com/adzurita/hellow.git
+   87  git clone https://github.com/EggCooperation/Python.git
+   88  mkdir informes 
+   89  cd informes
+   90  touch informeAnual.xls
+   91  ls
+   92  mkdir auditoria
+   93  touch autitoria.xls
+   94  touch reporteConsolidado.xls
+   95  ls
+   96  mv auditoria.xls auditoria/
+   97  touch auditoria.xls
+   98  mv auditoria.xls auditoria/
+   99  cd auditoria
+  100  ls
+  101  git --version
+  102  git init
+  103  git config user.name "adriana"
+  104  gir config user.email "adzurita96@gmail.com"
+  105  gir config user.email "adzurita96@gmail.com"
+  106  git config user.email "adzurita96@gmail.com
+  107  "
+  108  git status
+  109  mkdir Ecommerce
+  110  cd Ecommerce
+  111  touch app.js
+  112  touch config.js
+  113  mkdir db
+  114  git init
+  115  ls
+  116  cd ..
+  117  cd ..
+  118  mkdir ejercicio
+  119  cd "C:\Users\azh_2\Desktop\Ejercicios"
+  120  git clone https://github.com/adzurita/Ejercicio-Git-Clase-4
+  121  touch README.md
+  122  touch hola.txt
+  123  touch ejercicio.doc
+  124  touch datos.txt
+  125  touch musica.txt
+  126  touch hojas.pdf
+  127  touch compras.txt
+  128  git add .
+  129  git commit "Primer commit"
+  130  git status
+  131  cd /c/Users/azh_2/Desktop/Ejercicios/Ejercicio-Git-Clase-4
+  132  git commit "Primer commit"
+  133  git add .
+  134  git commit 
+  135  cd /c/Users/azh_2/Desktop/Ejercicios/Ejercicio-Git-Clase-4
+  136  git add .
+  137  cd /c/Users/azh_2/Desktop/Ejercicios/Ejercicio-Git-Clase-4
+  138  git add README.md
+  139  git commit README.md "Primer commit"
+  140  git status
+  141  git commit -m "Primer commit"
+  142  git log
+  143  git push origin main
+  144  git status
+  145  git add datos.txt
+  146  git commit -m "Modificacion archivo datos"
+  147  git push origin main
+  148  git branch primera_rama
+  149  touch documento1.txt
+  150  git push origin primera_rama
+  151  git branch segunda_rama
+  152  touch documento2.txt
+  153  git add documento2.txt
+  154  git commit -m "SUbir documento de rama 2 a main"
+  155  git checkout segunda_rama
+  156  git push origin segunda_rama
+  157  git add
+  158  git add documento2.txt
+  159  git checkout segunda_rama
+  160  touch documento2.txt
+  161  git add documento2.txt
+  162  git commit -segunda_rama "Commit segunda rama"
+  163  git commit -m "Commit"
+  164  git push origin main
+  165  cd /c/Users/azh_2/Desktop/Ejercicios
+  166  mkdir mi-repositorio
+  167  cd mi-repositorio
+  168  git init
+  169  touch app.js
+  170  git status
+  171  git add app,js
+  172  git status
+  173  git touch producto.js
+  174  touch producto.js
+  175  git add producto.js
+  176  git commit -m "primer commit"
+  177  git status
+  178  cd /c/Users/azh_2/Desktop/Ejercicios
+  179  git clone https://github.com/adzurita/hellow
+  180  cd hellow
+  181  touch app.js
+  182  git status
+  183  git add app.js
+  184  git status
+  185  git commit -m "mi primer commit"
+  186  git status
+  187  git push origin main
+  188  git status
+  189  git push origin main
+  190  cd 
+  191  cd /c/Users/azh_2/Desktop/Ejercicios
+  192  git clone https://github.com/jcos-tech/fontend1-clase7
+  193  cd "C:\Users\azh_2\Desktop\Ejercicios\fontend1-clase7"
+  194  git int
+  195  git init
+  196  cd /c/Users/azh_2/Desktop/Ejercicios/FE1-Clase8
+  197  git init
+  198  git add
+  199  git clone https://github.com/adzurita/FE1-CLASE8.git
+  200  git status
+  201  cd /c/Users/azh_2/Desktop/Ejercicios/FE1-Clase8/FE1-CLASE8
+  202  git status
+  203  git add index.html
+  204  git add sobremi.html
+  205  git add css
+  206  git add img
+  207  git commit Primer commit
+  208  git commit
+  209  cd 
+  210  cd 
+  211  cd /c/Users/azh_2/Desktop/Ejercicios/FE1-Clase8
+  212  cd 
+  213  cd https://github.com/adzurita/FE1-CLASE8.gi
+  214  cd /c/Users/azh_2/Desktop/Ejercicios
+  215  git clone https://github.com/adzurita/FE1-CLASE8.git
+  216  git clone https://github.com/adzurita/FE1-CLASE8.git
+  217  git clone https://github.com/adzurita/FE1-CLASE.git
+  218  git add
+  219  git add .
+  220  git commit m- "Primer commit"
+  221  git commit -m "Primer commit"
+  222  git push origin master
+  223  git status
+  224  cd
+  225  cd /c/Users/azh_2/Desktop/Ejercicios/FE1-Clase8
+  226  git status
+  227  git init
+  228  git add .
+  229  git commit -m "primer commit"
+  230  get remote add origin https://github.com/adzurita/E8FE.git
+  231  git remte add origin https://github.com/adzurita/E8FE.git
+  232  git remore add origin https://github.com/adzurita/E8FE.git
+  233  git remote add origin https://github.com/adzurita/E8FE.git
+  234  git remote -v
+  235  git add.
+  236  git add .
+  237  git commit -m "Primer commit a la nube"
+  238  git push origin master
+  239  git status
+  240  cd /c/Users/azh_2/Desktop/Front Ejercicios/practica_c7s-main
+  241  cd '/c/Users/azh_2/Desktop/Front Ejercicios/practica_c7s-main'
+  242  cd
+  243  cd '/c/Users/azh_2/Desktop/Front Ejercicios/practica_c7s-main'
+  244  git init
+  245  git remote add origin https://github.com/adzurita/EClase7.git
+  246  git remote -v
+  247  git add .
+  248  git commit -m "primer commit clase7"
+  249  git push origin master
+  250  cd
+  251  cd /c/Users/azh_2/Desktop/Ejercicios
+  252  git clone https://github.com/adzurita/CheckPoint-Adriana-Zurita.git
+  253  cd ..
+  254  cd /c/Users/azh_2/Desktop/Ejercicios/CheckPoint-Adriana-Zurita
+  255  touch main.js
+  256  touch index.html
+  257  git add .
+  258  git status
+  259  git commit -m "Commit 01 de Adriana Zurita"
+  260  git push origin main
+  261  git status
+  262  git branch feature
+  263  git checkout feature
+  264  mkdir Hardware Software SeguridadInformatica
+  265  cd hardware
+  266  touch resumen.txt
+  267  cd ..
+  268  cd software
+  269  touch resumen.txt
+  270  cd ..
+  271  cd seguridadinformatica
+  272  touch resumen.txt
+  273  cd ..
+  274  git status
+  275  git add .
+  276  git status
+  277  git commit -m "commit 02 de Adriana Zurita"
+  278  git push origin feature
+  279   git cheackout main
+  280  git checkout main
+  281  git mv main.js resumenHardware.txt
+  282  git mv index.html resumenSoftware.txt
+  283  hystory > comandos.txt
+  284  history > comandos.txt
